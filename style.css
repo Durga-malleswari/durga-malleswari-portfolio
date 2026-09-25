@@ -276,7 +276,7 @@ h2 { font-weight: 500; }
   border-radius: inherit;
   border: 1px solid color-mix(in srgb, var(--accent) 14%, transparent);
   opacity: .55;
-  animation: outerBreath 4.2s ease-in-out infinite;
+  animation: none;
 }
 
 .profile-photo {
