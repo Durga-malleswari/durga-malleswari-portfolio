@@ -264,7 +264,7 @@ h2 { font-weight: 500; }
   -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
   -webkit-mask-composite: xor;
   mask-composite: exclude;
-  animation: borderSweep 5.5s linear infinite;
+  animation: none;
 }
 
 .photo-wrap::after {
