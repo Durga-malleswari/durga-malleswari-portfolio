@@ -59,7 +59,7 @@ h1 span,h2 span { background: linear-gradient(110deg,var(--accent),var(--accent-
 .btn:hover { transform: translateY(-3px); }
 .btn.primary { background: var(--text); color: var(--bg); box-shadow: var(--shadow); }
 .btn.secondary { border: 1px solid var(--line); background: var(--surface); }
-.social-row { display: flex; gap: 20px; margin-top: 30px; color: var(--muted); font-size: .78rem; }
+.social-row { display: flex; align-items: center; gap: 20px; margin-top: 30px; color: var(--muted); font-size: .78rem; }
 .social-row a:hover { color: var(--accent); }
 .hero-visual { display: flex; justify-content: center; }
 .photo-wrap { width: min(430px, 80vw); aspect-ratio: .79; position: relative; }
